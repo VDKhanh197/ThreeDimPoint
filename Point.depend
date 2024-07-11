@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1680236181 source:c:\users\admin\code block c++\point\main.cpp
+	<iostream>
+	"point.h"
+	"threedimpoint.h"
+	"colorthreedimpoint.h"
+
+1679630675 c:\users\admin\code block c++\point\point.h
+	<iostream>
+
+1679629803 source:c:\users\admin\code block c++\point\point.cpp
+	<iostream>
+	"point.h"
+	<math.h>
+
+1679627951 c:\users\admin\code block c++\point\threedimpoint.h
+	"point.h"
+
+1679630675 source:c:\users\admin\code block c++\point\threedimpoint.cpp
+	"threedimpoint.h"
+	<iostream>
+	<math.h>
+
+1680236141 c:\users\admin\code block c++\point\colorthreedimpoint.h
+	"threedimpoint.h"
+
